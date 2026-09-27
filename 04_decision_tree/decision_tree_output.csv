@@ -1,0 +1,61 @@
+Actual Status,Predicted Status,Correct
+Not Promoted,Not Promoted,True
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Not Promoted,Not Promoted,True
+Not Promoted,Not Promoted,True
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Not Promoted,Not Promoted,True
+Not Promoted,Promoted,False
+Not Promoted,Not Promoted,True
+Not Promoted,Not Promoted,True
+Promoted,Not Promoted,False
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Promoted,Not Promoted,False
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Not Promoted,Promoted,False
+Promoted,Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Promoted,Not Promoted,False
+Promoted,Promoted,True
+Promoted,Promoted,True
+Not Promoted,Not Promoted,True
+Not Promoted,Not Promoted,True
+Not Promoted,Promoted,False
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Not Promoted,Promoted,False
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Not Promoted,Not Promoted,True
+Promoted,Not Promoted,False
+Not Promoted,Not Promoted,True
+Promoted,Not Promoted,False
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Promoted,Not Promoted,False
+Not Promoted,Not Promoted,True
+Not Promoted,Not Promoted,True
+Not Promoted,Not Promoted,True
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Promoted,Promoted,True
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Not Promoted,Not Promoted,True
+Promoted,Promoted,True
+Not Promoted,Not Promoted,True
