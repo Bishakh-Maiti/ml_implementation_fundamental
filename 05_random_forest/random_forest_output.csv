@@ -1,0 +1,201 @@
+Actual Status,Predicted Status,Correct
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,No Churn,False
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,No Churn,False
+Churn,Churn,True
+No Churn,No Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,No Churn,False
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+No Churn,No Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
+Churn,Churn,True
